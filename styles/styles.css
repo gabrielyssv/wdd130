@@ -1,0 +1,40 @@
+/* Apply styles to the main element */
+main {
+    max-width: 840px;
+  }
+  
+  /* Apply styles to the aside element */
+  aside {
+    width: 20rem;
+    margin: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    background-color: #eee;
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Apply styles to the image inside the aside */
+  aside img {
+    width: 200px;
+    height: auto;
+  }
+  
+  /* Make existing profile image more specific */
+  main img {
+    width: 150px;
+    height: auto;
+  }
+  
+  /* Set paragraph padding to 0 */
+  p {
+    padding: 0;
+  }
+  
+  /* Apply styles to the footer element */
+  footer {
+    margin-top: 15px;
+    border-top: 1px solid #000;
+    text-align: center;
+  }
+  
